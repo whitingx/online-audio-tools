@@ -7,6 +7,7 @@ A list of various web based audio and music making tools and resources.
 - 🥁 [Drums/Beats](#-drumsbeats)
 - 🧰 [General](#-general)
 - 🤖 [Generative](#-generative)
+- 🎸 [Guitar](#-guitar)
 - 🎹 [Keyboards/Synths](#-keyboardssynths)
 - 🎼 [Music Theory](#-music-theory)
 
@@ -24,7 +25,15 @@ https://io808.com/
 
 https://sig.gy/beatboxer/
 
+**TR-101** - *A synth drum machine.*
+
+https://inverted3.gitlab.io/drum-machine/
+
 ## 🧰 General
+
+**Jazzari** - *A programmable band in your browser.*
+
+https://jackschaedler.github.io/jazzari/
 
 **Sampulator**
 
@@ -52,11 +61,25 @@ http://robertvinluan.com/Ramsophone/
 
 http://scribble.audio/
 
+**Tones FM**
+
+https://www.tones.fm
+
 **Web Audio Arpeggiator**
 
 http://arpeggiator.desandro.com/
 
+## 🎸 Guitar
+
+**React Guitar** - *A beautiful and accessible guitar component for React.*
+
+https://react-guitar.com/
+
 ## 🎹 Keyboards/Synths
+
+**DotPiano** - *A visual musical instrument that lives on the web.*
+
+https://dotpiano.com/
 
 **Synthi JS**
 
@@ -73,6 +96,10 @@ http://www.websynths.com/
 **Yamaha DX7 Emulator**
 
 http://mmontag.github.io/dx7-synth-js/
+
+**Zupiter* - *Online Modular Synthesizer.*
+
+https://z.musictools.live/#72
 
 ## 🎼 Music Theory
 
