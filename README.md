@@ -10,6 +10,7 @@ A list of various web based audio and music making tools and resources.
 - 🎸 [Guitar](#-guitar)
 - 🎹 [Keyboards/Synths](#-keyboardssynths)
 - 🎼 [Music Theory](#-music-theory)
+- 🗣 [Vocal](#-vocal)
 
 ## 🥁 Drums/Beats
 
@@ -25,11 +26,23 @@ https://io808.com/
 
 https://sig.gy/beatboxer/
 
+**Beatz AI** - *Completely Original Beats Generated Using AI.*
+
+https://beatz.ai/
+
+**DrumBit**
+
+https://drumbit.app/
+
 **TR-101** - *A synth drum machine.*
 
 https://inverted3.gitlab.io/drum-machine/
 
 ## 🧰 General
+
+**Bassoon Tracker**
+
+https://www.stef.be/bassoontracker/
 
 **Jazzari** - *A programmable band in your browser.*
 
@@ -49,9 +62,21 @@ http://app.wetracker.xyz/
 
 https://musiclab.chromeexperiments.com/Experiments
 
+**JazzKeys**
+
+https://jazzkeys.plan8.co/
+
+**Mikutap**
+
+https://aidn.jp/mikutap/
+
 **Musical Chord Progression Arpeggiator**
 
 https://codepen.io/jakealbaugh/full/qNrZyw/
+
+**noise.sh** - *A digital signal processing spreadsheet for sound design.*
+
+https://noise.sh/
 
 **Rams-o-Phone**
 
@@ -106,3 +131,9 @@ https://z.musictools.live/#72
 **Sharp11** - *Sharp11 is a music theory multitool with a jazz focus.*
 
 http://julianrosenblum.com/sharp11-client/ 
+
+## 🗣 Vocal
+
+**IncrediBox**
+
+https://www.incredibox.com/demo/
