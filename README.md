@@ -4,10 +4,10 @@ A list of various web based audio and music making tools and resources.
 
 ## Table of Contents
 
-- 🥁 [Drums/Beats](#-drums-beats)
+- 🥁 [Drums/Beats](#-drumsbeats)
 - 🧰 [General](#-general)
 - 🤖 [Generative](#-generative)
-- 🎹 [Keyboards/Synths](#-keyboards-synths)
+- 🎹 [Keyboards/Synths](#-keyboardssynths)
 - 🎼 [Music Theory](#-music-theory)
 
 ## 🥁 Drums/Beats
