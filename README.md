@@ -1,3 +1,5 @@
+![Header image showing a cassette and the title ‘Online Audio Tools’](https://raw.githubusercontent.com/whitingx/online-audio-tools/main/audio-repo.png "Header image showing a cassette and the title ‘Online Audio Tools’")
+
 # Online Audio Tools
 
 A list of various web based audio and music making tools and resources.
