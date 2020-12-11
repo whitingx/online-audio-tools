@@ -76,9 +76,17 @@ https://aidn.jp/mikutap/
 
 https://codepen.io/jakealbaugh/full/qNrZyw/
 
+**MusicGrid**
+
+https://music-grid.surge.sh/
+
 **noise.sh** - *A digital signal processing spreadsheet for sound design.*
 
 https://noise.sh/
+
+**Patatap**
+
+https://patatap.com/
 
 **Rams-o-Phone**
 
@@ -87,6 +95,10 @@ http://robertvinluan.com/Ramsophone/
 **Scribble Audio**
 
 http://scribble.audio/
+
+**ToneMatrix Redux**
+
+https://www.maxlaumeister.com/tonematrix/
 
 **Tones FM**
 
