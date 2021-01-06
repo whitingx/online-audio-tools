@@ -54,6 +54,10 @@ https://www.stef.be/bassoontracker/
 
 https://www.beepbox.co/
 
+**Handel** - *A small procedural programming language for writting songs in browser.*
+
+https://handel-pl.github.io/
+
 **Jazzari** - *A programmable band in your browser.*
 
 https://jackschaedler.github.io/jazzari/
